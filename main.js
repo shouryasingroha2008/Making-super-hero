@@ -74,7 +74,6 @@ function my_keydown(e) {
         new_img('left_hand.png');
         console.log("h");
     }
-    }
     if (keyPressed == '38') {
         up();
         console.log("up");
